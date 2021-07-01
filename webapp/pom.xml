@@ -12,8 +12,13 @@
 
   <artifactId>webapp</artifactId>
   <packaging>war</packaging>
+<<<<<<< HEAD
   <name>Webapp</name>
   <description>Webapp.</description>
+=======
+  <name>webapp</name>
+  <description>webapp.</description>
+>>>>>>> 760d0c9cc9e1596d214f92f694e66738268507aa
 
   <build>
     <finalName>${project.artifactId}</finalName>
